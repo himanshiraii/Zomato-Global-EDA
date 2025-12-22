@@ -1,5 +1,5 @@
 # 🔴 Zomato-Global-EDA
-An end-to-end Exploratory Data Analysis (EDA) of global Zomato data. Project features dynamic filtering logic to identify Top/Least restaurants by City/Metric, supported by robust data cleaning that correctly analyzed zero-vote restaurants and preserved market-defining outliers. The findings are presented using Zomato-branded visuals.
+An end-to-end Exploratory Data Analysis (EDA) of global Zomato data. Project features dynamic filtering logic to identify Top/Least restaurants by City/Metric, supported by robust data cleaning. The findings are presented using Zomato-branded visuals.
 
 # 📌 Project Overview
 The goal of this project is to:
